@@ -15,8 +15,15 @@ Before running the key generation script, ensure you have the following installe
 To generate keys for a Besu node, run the following command:
 
 ```bash
-./generate.sh
+./generate.sh <number-of-node> <algorithm>
 ```
+
+**Example command**
+```bash
+./generate.sh 4 QBFT
+```
+
+algorithm that support is `QBFT` and `IBFT`
 
 This will execute the key generation script and create the necessary keys for your node.
 
