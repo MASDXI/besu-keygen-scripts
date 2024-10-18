@@ -44,5 +44,3 @@ This project is licensed under the [NONE](LICENSE).
 ## Contributing
 
 Contributions are welcome! Please feel free to submit pull requests or open issues if you encounter any problems or have suggestions for improvements.
-
-Feel free to adjust the content as needed for your specific repository!
