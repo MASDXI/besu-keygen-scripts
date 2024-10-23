@@ -1,4 +1,4 @@
-# node-keygen-besu
+# besu-keygen-scripts
 
 This repository contains a key generation script for Hyperledger Besu nodes.
 
